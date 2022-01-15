@@ -1,0 +1,12 @@
+perintah pada git :
+
+1.git init : untuk menginisialisasi git pada repo lokal
+2.git config : untuk mengatur configurasi pada git
+3.git status : untuk melihat status file. ada 3 status : Untracked, Stagging area, Modified
+4.git add : untuk menambahkan file ke Stagging area
+5.git commit : untuk melakukan commit file pada git
+6.git log : untuk melihat riwayat commit
+7.git clone : untuk mengclone repo dari server
+8.git push :  untuk mengirim repo dari lokal kserver
+9.git remot : untuk berinteraksi dengan server
+10.git pull : untuk mengambil commit dari server
